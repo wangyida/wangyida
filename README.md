@@ -7,5 +7,5 @@ Ever enrolled in competer vision projects sponsored by Microsoft and Google, e.g
 
 ---
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=wangyida&count_private=true&show_icons=false&theme=default" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=wangyida&count_private=false&show_icons=false&theme=default" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangyida&theme=default&show_icons=true" />
