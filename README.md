@@ -8,4 +8,3 @@ Selected sponsored works by Microsoft - [CNTK on Mac](https://www.microsoft.com/
 ---
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=wangyida&count_private=true&show_icons=true&theme=tokyonight" />
-% <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangyida&theme=default&show_icons=true" />
