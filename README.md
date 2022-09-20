@@ -1,4 +1,4 @@
-[![](https://img.shields.io/badge/🌐website-gray?&style=for-the-badge)](http://campar.in.tum.de/Main/YidaWang/)
+[![](https://img.shields.io/badge/🌐website-gray?&style=for-the-badge)](https://wangyida.github.io/)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yida-wang-910123/)
 [![](https://img.shields.io/badge/googlescholar-%234285F4.svg?&style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.de/citations?user=HpfFgYIAAAAJ&hl=en)
 
